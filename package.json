@@ -1,0 +1,16 @@
+{
+  "name": "exe_aula14",
+  "version": "1.0.0",
+  "description": "exercicio aula 14 Contas",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "aula",
+    "14",
+    "exercicios"
+  ],
+  "author": "Luiz Felipe Santana Jardim",
+  "license": "ISC"
+}
